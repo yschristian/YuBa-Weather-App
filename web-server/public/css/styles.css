@@ -36,3 +36,19 @@ header a {
     margin-right: 16px;
     text-decoration: none;
 }
+input{
+    border:1px solid #cccc;
+    padding: 8px;
+    outline: none;
+    font-size: 18px;
+}
+button{
+  border:1px solid #cccc;
+  cursor: pointer;
+  padding: 8px;
+  font-size: 18px;
+}
+button:hover{
+    background-color:grey ;
+    color:white;
+}
